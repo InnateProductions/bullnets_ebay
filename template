@@ -22,7 +22,7 @@
 
 &nbsp;<CENTER>
 <div align="center">
-<b><font face="Arial" size="6">KEYWORD RICH ITEM TITLE</font></b>
+<b><font face="Arial" size="6"><font color="#1e1e1e">ITEM TITLE</font></b>
 <P> </P>
 <TABLE width="95%" bgColor=#ffffff background= border=1 bordercolor="#1e1e1e" border="1" cellpadding="6" cellspacing="1">
 <TBODY>
@@ -30,11 +30,14 @@
 <TD>
 
     <p align="center">
-
+    <img src="https://raw.githubusercontent.com/InnateProductions/bullnets_ebay/main/Final.png?token=AVURIN7WJBW447TPJIZIIO3BIHYJG" border="0" width="200">
+    
+    <p> </p>
+    <p align="center">
     <b><font face="Arial">USE THIS FIRST PARAGRAPH TO WRITE A </font></b></p>
     <p align="center">
 
-    <b><font face="Arial">KEYWORD-RICH SUMMARY OF WHAT YOU ARE SELLING</font></b></div>
+    <b><font face="Arial">SUMMARY OF WHAT YOU ARE SELLING</font></b></div>
     </FONT></STRONG>
     </TD>
 </tr>
@@ -128,7 +131,7 @@ page </a> </font><font face="Arial Black" size="5">
         </font></td>
         <td width="50%" align="left"><font face="Arial" size="1"><font color="#ffffff">
         <ul>
-          <li>7 days after we have despatched your order, if we have not been 
+          <li>7 days after we have dispatched your order, if we have not been 
           notified by you of any problem, or received feedback, we will send a 
           feedback reminder. </li>
           <li>It is the customers responsibility to ensure that payment is 
@@ -136,7 +139,7 @@ page </a> </font><font face="Arial Black" size="5">
           <li>If paying via Postal Orders, please make them payable to :</li>
           <li>All goods are sent either via Royal Mail second class post (up to 
           2kg) or Parcelforce 48 (over 2 kg).</li>
-          <li>Goods will be despatched within 48 hrs of cleared fund, subject to 
+          <li>Goods will be dispatched within 48 hrs of cleared funds, subject to 
           the conditions listed in the payment section above. </li>
           <li>We accept no responsibility for goods delayed due to the services 
           of Royal Mail or Parcelforce. </li>
